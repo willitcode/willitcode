@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**willitcode/willitcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gabe. I'm a current high school senior, and I'm planning to attend college in computer science next year.
 
-Here are some ideas to get you started:
+#### Languages/Tech Stacks I Know
+- [x] Python
+- [x] Java
+- [x] HTML/CSS
+- [x] Hugo
+- [x] Basic shell
+- [x] Sysadmin
+- [x] A bit of Swift
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages/Tech Stacks I Want to Learn
+- [ ] A bit more shell
+- [ ] C
+- [ ] Eventually Rust??
+
+#### Contact Me
+Email is my preferred method of contact; my address can be found on the left (soon™️) (I don't post it here in an attempt to avoid a bit of email spam).
+
+I can also be reached on Discord at the same username as this account.
