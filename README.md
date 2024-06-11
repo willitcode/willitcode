@@ -1,22 +1,12 @@
 ### Hello!
 
-My name is Gabe. I'm a current high school senior, and I'm planning to attend college in computer science next year.
+My name is Gabe. I'm a programmer and a cybersecurity professional. I've worked extensively in robotics with [FRC Team 937](https://github.com/frc937) and I've spent about a year in the security field, learning and doing CTFs.
 
-#### Languages/Tech Stacks I Know
-- [x] Python
-- [x] Java
-- [x] HTML/CSS
-- [x] Hugo
-- [x] Basic shell
-- [x] Sysadmin
-- [x] A bit of Swift
+I've just graduated high school, and I'll be starting at Colorado College as a computer science student this fall.
 
-#### Languages/Tech Stacks I Want to Learn
-- [ ] A bit more shell
-- [ ] C
-- [ ] Eventually Rust??
+You can find out more about me on [my website](https://willitcode.github.io/
 
 #### Contact Me
-Email is my preferred method of contact; my address can be found on the left (soon™️) (I don't post it here in an attempt to avoid a bit of email spam).
+Email is my preferred method of contact; my address can be found on the left.
 
 I can also be reached on Discord at the same username as this account.
