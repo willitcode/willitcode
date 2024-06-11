@@ -4,7 +4,7 @@ My name is Gabe. I'm a programmer and a cybersecurity professional. I've worked 
 
 I've just graduated high school, and I'll be starting at Colorado College as a computer science student this fall.
 
-You can find out more about me on [my website](https://willitcode.github.io/
+You can find out more about me on [my website](https://willitcode.github.io/)
 
 #### Contact Me
 Email is my preferred method of contact; my address can be found on the left.
